@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#673AB7</color>
+    <color name="colorPrimaryDark">#2196F3</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="logoBackground">#E9B4C457</color>
+    <color name="dialogBackground">#CDDC39</color>
+    <color name="dialogBtnBackground">#2196F3</color>
+    <color name="alertBackground">#9ACE69</color>
+
+    <color name="textBavkground">#C2B7B7</color>
+    <color name="contentBack">#63B665</color>
+    <color name="lightgreen">#A7FC77</color>
+
+</resources>

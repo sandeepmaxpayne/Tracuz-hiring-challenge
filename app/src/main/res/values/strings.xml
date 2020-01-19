@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tracuz Project</string>
+
+    <string name="google_maps_key">AIzaSyDaKlpQARSlYQaPr-AtPAT0A3l-JDoMRf8</string>
+    <string name="title_activity_maps">Maps</string>
+
+    <string name="map_name">Tracuz Project (MAP)</string>
+    <string name="bluetooth_name">Tracuz Project (Bluetooth)</string>
+    <string name="write_here">write here</string>
+
+</resources>

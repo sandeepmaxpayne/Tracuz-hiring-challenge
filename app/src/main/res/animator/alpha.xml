@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+<objectAnimator android:propertyName="alpha"
+    android:valueType="floatType"
+    android:duration="1500"
+    android:valueFrom="1.0"
+    android:valueTo="0.0"
+    android:repeatCount="1"
+    android:repeatMode="reverse"/>
+
+    <objectAnimator
+        android:propertyName="rotationY"
+        android:duration="1500"
+        android:valueFrom="0"
+        android:valueTo="-180"
+        android:valueType="floatType"
+        android:repeatCount="1"
+        android:repeatMode="reverse"/>
+</set>
+
+<!--<objectAnimator xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--    android:propertyName="rotationY"-->
+<!--    android:duration="1000"-->
+<!--    android:valueFrom="0"-->
+<!--    android:valueTo="-180"-->
+<!--    android:valueType="floatType"-->
+<!--    android:repeatCount="1"-->
+<!--    android:repeatMode="reverse"-->
+
+<!--    >-->
+
+<!--</objectAnimator>-->
