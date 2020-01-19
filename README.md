@@ -12,10 +12,10 @@
   <li> On the map user can get all the amazing places nearby location to visit using the location api. Images as shown below for better understanding. </li> 
   <ul>
  <div>
- <img src="Screenshot_1579434164.png" width="400" height="400"><span> <img src="screen1.png" width="400" height="400">
- 
+ <img src="Screenshot_1579434164.png" width="200" height="400"> <img src="screen1.png" width="200" height="400">
+ <br>
  <img src="screen2.png" width="400" height="400"> <img src="screen3.png" width="400" height="400">
- 
+ <br>
  <img src="screen4.png" width="400" height="400">
     </div>
  
